@@ -1,0 +1,18 @@
+{
+  "strategy": "B",
+  "data_type": "SYNTHETIC_DEMO",
+  "cost_rates": "ILLUSTRATIVE_ONLY",
+  "completed_trades": 0,
+  "net_pnl": 0,
+  "max_drawdown": -0.0,
+  "win_rate_percent": 0,
+  "profit_factor": null,
+  "expectancy": 0,
+  "average_r_multiple": 0,
+  "longest_losing_streak": 0,
+  "annualized_daily_sharpe": null,
+  "monthly_returns_percent": {
+    "2026-10": 0.0
+  },
+  "open_position_remaining": false
+}
